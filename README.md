@@ -4,7 +4,7 @@
 🎓 **Assistant Professor** | 💻 **AI Entrepreneur** | 🏆 **10x Microsoft MVP**  
 
 📍 **Location:** Moghbazar, Dhaka, Bangladesh  
-📧 **Email:** [inbox.kabir@hotmail.com](mailto:inbox.kabir@hotmail.com)  
+📧 **Email:** [ahsan.kabir@bubt.edu.bd](mailto:ahsan.kabir@bubt.edu.bd)  
 📞 **Phone:** +880-1-913915499  
 🔗 **LinkedIn:** [linkedin.com/in/ahsan-kabir](https://linkedin.com/in/ahsan-kabir)  
 
