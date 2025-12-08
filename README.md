@@ -63,7 +63,7 @@ I am a highly accomplished Assistant Professor and AI entrepreneur with over **2
 ## 📚 **Research Work:**
 1. [Synthetic Preference Augmentation with Neural Contrastive Margins (SPAN-CM): A Meta-Cognitive Framework for Autonomous LLM Alignment ]( https://docs.google.com/document/d/1gO0LgYZ55VYbhb8ZKMfboy08WzPTRPsuzs8l99bGIqI/edit?usp=sharing) 
 
-2. [Adversarial Reflection-Optimized Preference (AROP): Autonomous Alignment of Large Language Models via Self-Generated Max-Margin Supervision] (https://docs.google.com/document/d/11pL7iLZSYc0-wtFzMPSzUYiejzS16Ev4nH54dN2h5m8/edit?usp=sharing)
+2. [Adversarial Reflection-Optimized Preference (AROP): Autonomous Alignment of Large Language Models via Self-Generated Max-Margin Supervision](https://docs.google.com/document/d/11pL7iLZSYc0-wtFzMPSzUYiejzS16Ev4nH54dN2h5m8/edit?usp=sharing)
 
 Explore my insights and thought leadership in the field of artificial intelligence:  
 
