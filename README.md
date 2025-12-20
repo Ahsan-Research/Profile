@@ -118,4 +118,6 @@ Explore my insights and thought leadership in the field of artificial intelligen
 - **Microsoft Most Valuable Professional (MVP)** | *November 2013 – Present*  
 - Chapter Leader: **PASS (The Community for Data Professionals)** and **Docker**  
 
-Thank you for visiting my profile! Feel free to connect with me or explore my repositories to learn more about my work.  
+Thank you for visiting my profile! 
+Feel free to connect with me.
+Explore my repositories to learn more about my work.  
