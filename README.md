@@ -27,13 +27,13 @@ I am a highly accomplished Assistant Professor and AI entrepreneur with over **2
 - Designing and evaluating curricula for advanced computing topics.  
 
 ### **Chief Technology Officer (CTO)**  
-**Techforumbd Ltd** *(July 2024 – Present)*  
+**Country Formation Inc** *(July 2024 – Present)*  
 - Leading AI-based solution development and strategy.  
 - Managing teams, product design, and strategic alliances.  
 - Driving innovation in data management and architectural solutions.  
 
 ### **Principal Consultant**  
-**IT Country Formation, Dhaka** *(April 2020 – June 2024)*  
+**IT Country Formation Inc, Dhaka** *(April 2020 – June 2024)*  
 - Directed product development and roadmap strategies for AI solutions.  
 - Integrated Azure Services and DevOps practices for optimal system performance.  
 
